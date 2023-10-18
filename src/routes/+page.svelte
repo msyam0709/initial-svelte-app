@@ -26,6 +26,8 @@
 	</h2>
 
 	<Counter />
+
+	<h1>Hello world</h1>
 </section>
 
 <style>
